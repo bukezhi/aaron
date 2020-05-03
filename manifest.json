@@ -1,0 +1,42 @@
+{
+    "orientation": "portrait",
+    "theme_color": "#1fb5ad",
+    "background_color": "#f1f2f7",
+    "display": "standalone",
+    "name": "Aaron鱼",
+    "start_url": "/?yu",
+    "description": "Aaron鱼。",
+    "short_name": "Aaron鱼",
+    "icons": [
+        {
+            "sizes": "48x48",
+            "src": "/neyu.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "72x72",
+            "src": "/neyu.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "96x96",
+            "src": "/neyu.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "144x144",
+            "src": "/neyu.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "192x192",
+            "src": "/neyu.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "512x512",
+            "src": "/neyu.png",
+            "type": "image/png"
+        }
+    ]
+}
